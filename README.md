@@ -1,4 +1,4 @@
-Hi, welcome to our DCCL (Disentangled Causal Embedding With Contrastive Learning For Recommender System) program.
+Hi, welcome to our DCCL ([Disentangled Causal Embedding With Contrastive Learning For Recommender System](https://arxiv.org/abs/2302.03248). Accepted by the industry track of WWW'23) program.
 
 # KS-DCCL
 This code was used for offline experiments of DCCL. You can reproduce the offline experiments in the paper by executing 
